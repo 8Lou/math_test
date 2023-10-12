@@ -23,5 +23,5 @@ if (ans4 === 'бесконечности') {
     result++;
 }
 //ответ - строка, т к getElementById возвр-т строку
-alert('true: ' + result);
+alert('Правильных ответов: ' + result);
 }
